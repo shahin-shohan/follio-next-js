@@ -21,7 +21,7 @@ const BlogSingle = () => {
                                 </div>
                                 <ul className="entry-meta">
                                     <li><Link href="/BlogDetailsPage"><a><img src='images/blog/admin.jpg' alt=""/>  By Admin</a></Link></li>
-                                    <li><Link href="/BlogDetailsPage"><a><i className="ti-calendar"></i> Sep 25,2020</a></Link></li>
+                                    <li><Link href="/BlogDetailsPage"><a><i className="ti-calendar"></i> Sep 25,2021</a></Link></li>
                                     <li><Link href="/BlogDetailsPage"><a><i className="ti-heart"></i> 35</a></Link></li>
                                 </ul>
                                 <h2>How to estublish a team with a great way?</h2>

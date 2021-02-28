@@ -20,7 +20,7 @@ const BlogList = () => {
                                 </div>
                                 <ul className="entry-meta">
                                     <li><Link href="/BlogDetailsPage"><a><img src='images/blog/admin.jpg' alt=""/> By Admin</a></Link></li>
-                                    <li><Link href="/BlogDetailsPage"><a><i className="ti-calendar"></i> Sep 25,2020</a></Link></li>
+                                    <li><Link href="/BlogDetailsPage"><a><i className="ti-calendar"></i> Sep 25,2021</a></Link></li>
                                     <li><Link href="/BlogDetailsPage"><a><i className="ti-heart"></i> 35</a></Link></li>
                                 </ul>
                                 <h3><Link href="/BlogDetailsPage">Helpful tips for become a successful designer</Link></h3>
@@ -36,7 +36,7 @@ const BlogList = () => {
                                 </div>
                                 <ul className="entry-meta">
                                     <li><Link href="/BlogDetailsPage"><a><img src='images/blog/admin.jpg' alt=""/> By Admin</a></Link></li>
-                                    <li><Link href="/BlogDetailsPage"><a><i className="ti-calendar"></i> Sep 25,2020</a></Link></li>
+                                    <li><Link href="/BlogDetailsPage"><a><i className="ti-calendar"></i> Sep 25,2021</a></Link></li>
                                     <li><Link href="/BlogDetailsPage"><a><i className="ti-heart"></i> 35</a></Link></li>
                                 </ul>
                                 <h3><Link href="/BlogDetailsPage">How to estublish a team with a great way?</Link></h3>
@@ -49,7 +49,7 @@ const BlogList = () => {
                                 </div>
                                 <ul className="entry-meta">
                                     <li><Link href="/BlogDetailsPage"><a><img src='images/blog/admin.jpg' alt=""/> By Admin</a></Link></li>
-                                    <li><Link href="/BlogDetailsPage"><a><i className="ti-calendar"></i> Sep 25,2020</a></Link></li>
+                                    <li><Link href="/BlogDetailsPage"><a><i className="ti-calendar"></i> Sep 25,2021</a></Link></li>
                                     <li><Link href="/BlogDetailsPage"><a><i className="ti-heart"></i> 35</a></Link></li>
                                 </ul>
                                 <h3><Link href="/BlogDetailsPage">A great way to estublish as 3D designer</Link></h3>
@@ -60,7 +60,7 @@ const BlogList = () => {
                             <div className="post format-quote">
                                 <ul className="entry-meta">
                                     <li><Link href="/BlogDetailsPage"><a><img src='images/blog/admin.jpg' alt=""/> By Admin</a></Link></li>
-                                    <li><Link href="/BlogDetailsPage"><a><i className="ti-calendar"></i> Sep 25,2020</a></Link></li>
+                                    <li><Link href="/BlogDetailsPage"><a><i className="ti-calendar"></i> Sep 25,2021</a></Link></li>
                                     <li><Link href="/BlogDetailsPage"><a><i className="ti-heart"></i> 35</a></Link></li>
                                 </ul>
                                 <h3><Link href="/BlogDetailsPage">How to become a team leader?</Link></h3>

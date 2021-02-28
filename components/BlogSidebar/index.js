@@ -42,7 +42,7 @@ const BlogSidebar = () => {
                             </div>
                             <div className="details">
                                 <h4><Link href="/BlogDetailsPage">6 Ideas for how you can avoid telling lie</Link></h4>
-                                <span className="date">22 Sep 2020</span>
+                                <span className="date">22 Sep 2021</span>
                             </div>
                         </div>
                         <div className="post">
@@ -51,7 +51,7 @@ const BlogSidebar = () => {
                             </div>
                             <div className="details">
                                 <h4><Link href="/BlogDetailsPage">The definitive list of digital products you can sell</Link></h4>
-                                <span className="date">22 Sep 2020</span>
+                                <span className="date">22 Sep 2021</span>
                             </div>
                         </div>
                         <div className="post">
@@ -60,7 +60,7 @@ const BlogSidebar = () => {
                             </div>
                             <div className="details">
                                 <h4><Link href="/BlogDetailsPage">The definitive list of digital products you can sell</Link></h4>
-                                <span className="date">22 Sep 2020</span>
+                                <span className="date">22 Sep 2021</span>
                             </div>
                         </div>
                     </div>

@@ -21,7 +21,7 @@ const LatestBlog = () => {
                             <div className="wpo-blog-text">
                                 <ul>
                                     <li><span>By Admin</span></li>
-                                    <li>. Nov 24, 2020</li>
+                                    <li>. Nov 24, 2021</li>
                                 </ul>
                                 <h2><Link href="/BlogDetailsPage">Helpful tips for become a successful designer</Link></h2>
                                 <Link href="/BlogDetailsPage">Read More...</Link>
@@ -36,7 +36,7 @@ const LatestBlog = () => {
                             <div className="wpo-blog-text">
                                 <ul>
                                     <li><span>By Admin</span></li>
-                                    <li>. Nov 24, 2020</li>
+                                    <li>. Nov 24, 2021</li>
                                 </ul>
                                 <h2><Link href="/BlogDetailsPage">Helpful tips for become a successful designer</Link></h2>
                                 <Link href="/BlogDetailsPage">Read More...</Link>
@@ -51,7 +51,7 @@ const LatestBlog = () => {
                             <div className="wpo-blog-text">
                                 <ul>
                                     <li><span>By Admin</span></li>
-                                    <li>. Nov 24, 2020</li>
+                                    <li>. Nov 24, 2021</li>
                                 </ul>
                                 <h2><Link href="/BlogDetailsPage">Helpful tips for become a successful designer</Link></h2>
                                 <Link href="/BlogDetailsPage">Read More...</Link>

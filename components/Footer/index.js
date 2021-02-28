@@ -35,7 +35,7 @@ const Footer = (props) => {
                 </div>
             </div>
             <div className={`wpo-footer-bottom ${props.Fbclass}`}>
-                <span>© 2020 Follio. All rights reserved</span>
+                <span>© 2021 Follio. All rights reserved</span>
             </div>
         </div>
     )
